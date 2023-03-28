@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location_name">Connaught Place</string>
+    <string name="temp">25°C </string>
+    <string name="condition">Few Clouds</string>
+    <string name="details">Details: </string>
+    <string name="humidity">Humidity</string>
+    <string name="max_temp">Max. Temp</string>
+    <string name="min_temp">Min. Temp</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="humid_value">: %50</string>
+    <string name="max_value">: 25°C</string>
+    <string name="min_value">: 25°C</string>
+    <string name="pressure_value">: 50</string>
+    <string name="wind_value">: 5</string>
+    <string name="city">Enter city name:</string>
+
+
+</resources>
